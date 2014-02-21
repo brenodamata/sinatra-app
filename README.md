@@ -1,3 +1,3 @@
-## Contact Page
+# Contact Page
 
-# built with the [Sinatra](http://www.sinatrarb.com) framework.
+## built with the [Sinatra](http://www.sinatrarb.com) framework.
